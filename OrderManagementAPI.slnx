@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="OrderManagementAPI.DAL/OrderManagementAPI.DAL.csproj" Id="1aefb71c-5db4-4db8-9e4f-1819828d41d8" />
+  <Project Path="OrderManagementAPI.Tests/OrderManagementAPI.Tests.csproj" Id="8a09d023-871a-4ee9-87e4-ec1a138b3391" />
+  <Project Path="OrderManagementAPI/OrderManagementAPI.csproj" />
+</Solution>
